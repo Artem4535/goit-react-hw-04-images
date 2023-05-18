@@ -1,0 +1,9 @@
+.btn {
+  display: block;
+  padding: 10px 25px;
+  border-radius: 5px;
+  margin-top: 20px;
+  border: none;
+  background-color: yellow;
+  margin: 20px auto 0 auto;
+}
