@@ -13,7 +13,6 @@ export function App() {
   const [page, setPage] = useState(1);
   const [total, setTotal] = useState(0);
   const [largeImage, setLargeImage] = useState('');
-  const [error, setError] = useState('');
   const [showModal, setShowModal] = useState(false);
   const [loading, setLoading] = useState(false);
 
